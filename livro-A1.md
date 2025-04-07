@@ -75,6 +75,18 @@ O alfabeto húngaro é baseado no alfabeto latino, mas com algumas adições e p
 
 Este livro foi cuidadosamente elaborado para guiar você, falante de português brasileiro, em seus primeiros passos no aprendizado do húngaro. Cada unidade foi projetada para ser clara, concisa e prática, focando em situações comunicativas básicas do nível A1.
 
+Cada unidade geralmente segue o seguinte padrão:
+
+1.  **Objetivos:** Uma lista clara do que você será capaz de fazer ao concluir a unidade.
+2.  **Vocabulário:** Palavras e frases relevantes para o tema da unidade, com tradução e pronúncia.
+3.  **Diálogos:** Situações conversacionais realistas que demonstram o uso prático do vocabulário e da gramática.
+4.  **Gramática:** Explicações concisas de regras gramaticais, com comparações e exemplos.
+5.  **Pronúncia:** Dicas e exercícios para ajudá-lo a dominar os sons do húngaro.
+6.  **Cultura:** Informações sobre a cultura húngara para enriquecer sua compreensão do idioma.
+7.  **Exercícios:** Atividades práticas para fixar o que você aprendeu.
+8.  **Jogo/Atividade Lúdica:** Uma forma divertida de praticar.
+9.  **Revisão:** Um resumo dos pontos principais.
+
 **Visão Geral das Unidades:**
 
 * [**Unidade 1: Olá! (Üdvözlet!)**](unidade-01.md) Esta unidade inicial estabelece os fundamentos para a comunicação básica. Você aprenderá a cumprimentar e despedir-se de pessoas, apresentar-se e dar informações simples sobre si mesmo, como nome e nacionalidade. A gramática se concentra nos pronomes pessoais e no verbo "ser".
@@ -89,19 +101,9 @@ Este livro foi cuidadosamente elaborado para guiar você, falante de português 
 * [**Unidade 10: Os dias da semana e os meses (A hét napjai és a hónapok)**](unidade-10.md) Você aprenderá os dias da semana e os meses do ano, bem como a usar preposições de tempo para falar sobre datas.
 * [**Unidade 11: Compras (Vásárlás)**](unidade-11.md) Esta unidade ensina o vocabulário relacionado a compras e transações financeiras, preparando você para fazer compras na Hungria.
 * [**Unidade 12: Revisão e cultura (Áttekintés és kultúra)**](unidade-12.md) A unidade final revisa o conteúdo do livro e aprofunda seus conhecimentos sobre aspectos culturais da Hungria.
+* [**Dicionário Hungaro-Português**](vocabulario.md)
+* [**Conjugações Verbais**](verbos.md)
 
-**Estrutura de Cada Unidade:**
 
-Cada unidade geralmente segue o seguinte padrão:
-
-1.  **Objetivos:** Uma lista clara do que você será capaz de fazer ao concluir a unidade.
-2.  **Vocabulário:** Palavras e frases relevantes para o tema da unidade, com tradução e pronúncia.
-3.  **Diálogos:** Situações conversacionais realistas que demonstram o uso prático do vocabulário e da gramática.
-4.  **Gramática:** Explicações concisas de regras gramaticais, com comparações e exemplos.
-5.  **Pronúncia:** Dicas e exercícios para ajudá-lo a dominar os sons do húngaro.
-6.  **Cultura:** Informações sobre a cultura húngara para enriquecer sua compreensão do idioma.
-7.  **Exercícios:** Atividades práticas para fixar o que você aprendeu.
-8.  **Jogo/Atividade Lúdica:** Uma forma divertida de praticar.
-9.  **Revisão:** Um resumo dos pontos principais.
 
 Com dedicação e prática, você estará pronto para desvendar os mistérios do húngaro! Boa jornada!
