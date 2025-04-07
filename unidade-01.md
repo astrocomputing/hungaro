@@ -36,43 +36,69 @@
 **Cena 1: Encontro informal**
 
 **Pessoa 1:** Szia!
+
 **Pessoa 2:** Szia! A nevem Anna. És te?
+
 **Pessoa 1:** Én Pedro vagyok.
+
 **Pessoa 2:** Örülök! (Prazer!)
+
 **Pessoa 1:** Én is örülök! (O prazer é meu!)
+
 **Pessoa 2:** Viszlát!
+
 **Pessoa 1:** Viszlát!
 
 **Tradução:**
 
 **Pessoa 1:** Oi!
+
 **Pessoa 2:** Oi! Meu nome é Anna. E você?
+
 **Pessoa 1:** Eu sou Pedro.
+
 **Pessoa 2:** Prazer!
+
 **Pessoa 1:** O prazer é meu!
+
 **Pessoa 2:** Tchau!
+
 **Pessoa 1:** Tchau!
 
 **Cena 2: Encontro formal**
 
 **Pessoa 1:** Jó napot!
+
 **Pessoa 2:** Jó napot!
+
 **Pessoa 1:** A nevem Kovács István.
+
 **Pessoa 2:** Nagyon örvendek! (Muito prazer!) Én Szabó Katalin vagyok.
+
 **Pessoa 1:** Ön brazil?
+
 **Pessoa 2:** Igen, brazil vagyok. És Ön?
+
 **Pessoa 1:** Én magyar vagyok. Viszontlátásra!
+
 **Pessoa 2:** Viszontlátásra!
 
 **Tradução:**
 
 **Pessoa 1:** Bom dia/Boa tarde!
+
 **Pessoa 2:** Bom dia/Boa tarde!
+
 **Pessoa 1:** Meu nome é István Kovács.
+
 **Pessoa 2:** Muito prazer! Eu sou Katalin Szabó.
+
 **Pessoa 1:** Você é brasileiro? (formal)
+
 **Pessoa 2:** Sim, eu sou brasileira. E você?
+
 **Pessoa 1:** Eu sou húngaro. Até logo!
+
 **Pessoa 2:** Até logo!
 
 **3. Gramática:**
@@ -165,10 +191,14 @@
 
 **4. Pequeno diálogo (Exemplo):**
 
-**Você:** Szervusz! A nevem [seu nome].
+**Você:** Szervusz!
+
 **Pessoa Húngara:** Szervusz! Örülök! Én [nome da pessoa húngara] vagyok.
+
 **Você:** Én [sua nacionalidade em húngaro] vagyok. És Ön?
+
 **Pessoa Húngara:** Én magyar vagyok. Viszlát!
+
 **Você:** Viszlát!
 
 **(Observação:** Este é apenas um exemplo. Seu diálogo pode variar.)
