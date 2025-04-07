@@ -1,4 +1,6 @@
-**Introdução: Bem-vindo ao Húngaro para Brasileiros (Nível A1)!**
+----
+# HÚNGARO PARA BRASILEIROS (NÍVEL A1)
+----
 
 A língua húngara, ou Magyar, é uma língua fascinante e única, e este livro foi projetado para guiá-lo pelos fundamentos do idioma no nível A1 do Quadro Europeu Comum de Referência para Línguas (CEFR). Isso significa que nosso foco será em habilidades comunicativas básicas, como cumprimentar, apresentar-se, falar sobre si mesmo e interagir em situações simples do cotidiano. A jornada de aprendizado do húngaro é especial, e entender um pouco de sua história ajuda a apreciar sua singularidade.
 
