@@ -77,18 +77,18 @@ Este livro foi cuidadosamente elaborado para guiar você, falante de português 
 
 **Visão Geral das Unidades:**
 
-* **Unidade 1: Olá! (Üdvözlet!)** Esta unidade inicial estabelece os fundamentos para a comunicação básica. Você aprenderá a cumprimentar e despedir-se de pessoas, apresentar-se e dar informações simples sobre si mesmo, como nome e nacionalidade. A gramática se concentra nos pronomes pessoais e no verbo "ser".
-* **Unidade 2: Quem é você? (Ki vagy te?)** Aqui, você expandirá suas habilidades para perguntar e dar informações sobre outras pessoas. O foco está no pronome "ele/ela", na conjugação do verbo "ser" para a terceira pessoa e no uso do artigo indefinido "um/uma".
-* **Unidade 3: Minha família (A családom)** Esta unidade apresenta o vocabulário para falar sobre membros da família e ensina a usar possessivos básicos para descrever relações familiares.
-* **Unidade 4: Onde você mora? (Hol laksz?)** Você aprenderá a descrever onde mora, usando vocabulário relacionado a lugares e preposições de lugar simples. O verbo "morar" é introduzido, juntamente com uma primeira olhada nos casos gramaticais.
-* **Unidade 5: Cores e números (Színek és számok)** Esta unidade expande seu vocabulário com cores e números até 20. Você também aprenderá a usar adjetivos para descrever objetos.
-* **Unidade 6: Na cidade (A városban)** Aqui, você aprenderá a se orientar em um ambiente urbano, aprendendo vocabulário para lugares na cidade e direções básicas.
-* **Unidade 7: Comida e bebida (Étel és ital)** Esta unidade ensina a pedir comida e bebida em um restaurante, apresentando vocabulário relacionado a alimentos e verbos como "comer" e "beber".
-* **Unidade 8: Que horas são? (Hány óra van?)** Você aprenderá a perguntar e dizer as horas, bem como a usar vocabulário relacionado a partes do dia e advérbios de tempo.
-* **Unidade 9: Meus hobbies (A hobbijaim)** Esta unidade explora o vocabulário para falar sobre atividades de lazer e hobbies, ensinando a expressar gostos e preferências.
-* **Unidade 10: Os dias da semana e os meses (A hét napjai és a hónapok)** Você aprenderá os dias da semana e os meses do ano, bem como a usar preposições de tempo para falar sobre datas.
-* **Unidade 11: Compras (Vásárlás)** Esta unidade ensina o vocabulário relacionado a compras e transações financeiras, preparando você para fazer compras na Hungria.
-* **Unidade 12: Revisão e cultura (Áttekintés és kultúra)** A unidade final revisa o conteúdo do livro e aprofunda seus conhecimentos sobre aspectos culturais da Hungria.
+* [**Unidade 1: Olá! (Üdvözlet!)**](unidade-01.md) Esta unidade inicial estabelece os fundamentos para a comunicação básica. Você aprenderá a cumprimentar e despedir-se de pessoas, apresentar-se e dar informações simples sobre si mesmo, como nome e nacionalidade. A gramática se concentra nos pronomes pessoais e no verbo "ser".
+* [**Unidade 2: Quem é você? (Ki vagy te?)**](unidade-02.md) Aqui, você expandirá suas habilidades para perguntar e dar informações sobre outras pessoas. O foco está no pronome "ele/ela", na conjugação do verbo "ser" para a terceira pessoa e no uso do artigo indefinido "um/uma".
+* [**Unidade 3: Minha família (A családom)**](unidade-03.md) Esta unidade apresenta o vocabulário para falar sobre membros da família e ensina a usar possessivos básicos para descrever relações familiares.
+* [**Unidade 4: Onde você mora? (Hol laksz?)**](unidade-04.md) Você aprenderá a descrever onde mora, usando vocabulário relacionado a lugares e preposições de lugar simples. O verbo "morar" é introduzido, juntamente com uma primeira olhada nos casos gramaticais.
+* [**Unidade 5: Cores e números (Színek és számok)**](unidade-05.md) Esta unidade expande seu vocabulário com cores e números até 20. Você também aprenderá a usar adjetivos para descrever objetos.
+* [**Unidade 6: Na cidade (A városban)**](unidade-06.md) Aqui, você aprenderá a se orientar em um ambiente urbano, aprendendo vocabulário para lugares na cidade e direções básicas.
+* [**Unidade 7: Comida e bebida (Étel és ital)**](unidade-07.md) Esta unidade ensina a pedir comida e bebida em um restaurante, apresentando vocabulário relacionado a alimentos e verbos como "comer" e "beber".
+* [**Unidade 8: Que horas são? (Hány óra van?)**](unidade-08.md) Você aprenderá a perguntar e dizer as horas, bem como a usar vocabulário relacionado a partes do dia e advérbios de tempo.
+* [**Unidade 9: Meus hobbies (A hobbijaim)**](unidade-09.md) Esta unidade explora o vocabulário para falar sobre atividades de lazer e hobbies, ensinando a expressar gostos e preferências.
+* [**Unidade 10: Os dias da semana e os meses (A hét napjai és a hónapok)**](unidade-10.md) Você aprenderá os dias da semana e os meses do ano, bem como a usar preposições de tempo para falar sobre datas.
+* [**Unidade 11: Compras (Vásárlás)**](unidade-11.md) Esta unidade ensina o vocabulário relacionado a compras e transações financeiras, preparando você para fazer compras na Hungria.
+* [**Unidade 12: Revisão e cultura (Áttekintés és kultúra)**](unidade-12.md) A unidade final revisa o conteúdo do livro e aprofunda seus conhecimentos sobre aspectos culturais da Hungria.
 
 **Estrutura de Cada Unidade:**
 
