@@ -1,5 +1,3 @@
-Okay, here's the "Vocabulário Completo" unit, as you requested. Note that providing a precise IPA transliteration for every word is very complex and can vary slightly depending on regional accents. I'll do my best to give a good approximation.
-
 ## Unidade: Vocabulário Completo
 
 Esta unidade contém todo o vocabulário húngaro apresentado nas unidades anteriores, organizado em ordem alfabética.
